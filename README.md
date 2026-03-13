@@ -4,8 +4,9 @@
 🚀 Open Source Contributor | Hacktoberfest Participant  
 🎓 B.Tech Computer Science Student at MGM University
 
-I enjoy building interactive web platforms and learning how scalable web applications work.  
-Currently focusing on full-stack development, open source collaboration, and improving backend systems.
+I love turning ideas into real web applications and continuously improving my skills as a developer.
+Currently learning full-stack development and open source collaboration.
+
 
 ---
 
@@ -50,6 +51,7 @@ An interactive web platform that visually maps the birthplaces of great philosop
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awaiz84&show_icons=true&theme=tokyonight)
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=awaiz84)
+
 
 ---
 
