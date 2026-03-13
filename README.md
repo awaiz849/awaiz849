@@ -52,7 +52,7 @@ An interactive web platform that visually maps the birthplaces of great philosop
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=awaiz849)
 
-
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awaiz849&layout=compact&theme=radical)
 ---
 
 ## 🌱 Currently Learning
