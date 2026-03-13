@@ -48,9 +48,9 @@ An interactive web platform that visually maps the birthplaces of great philosop
 
 ## 📈 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awaiz84&show_icons=true&theme=tokyonight)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awaiz849&show_icons=true&theme=tokyonight)
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=awaiz84)
+![GitHub Streak](https://streak-stats.demolab.com/?user=awaiz849)
 
 
 ---
