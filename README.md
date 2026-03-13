@@ -4,7 +4,7 @@
 🚀 Open Source Contributor | Hacktoberfest Participant  
 🎓 B.Tech Computer Science Student at MGM University
 
-I love turning ideas into real web applications and continuously improving my skills as a developer.
+I like turning ideas into real web applications and continuously improving my skills as a developer.
 Currently learning full-stack development and open source collaboration.
 
 
