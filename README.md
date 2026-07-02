@@ -1,71 +1,189 @@
-# Hi 👋 I'm Mohammad Awaiz
+# Hi there 👋, I'm Mohammad Awaiz
 
-💻 Full Stack Developer (MERN)  
-🚀 Open Source Contributor | Hacktoberfest Participant  
-🎓 B.Tech Computer Science Student at MGM University
+<h3 align="center">Full Stack Developer (MERN) | AI Enthusiast | Open Source Contributor</h3>
 
-I like turning ideas into real web applications and continuously improving my skills as a developer.
-Currently learning full-stack development and open source collaboration.
-
+<p align="center">
+  <a href="https://github.com/awaiz849">
+    <img src="https://komarev.com/ghpvc/?username=awaiz849&label=Profile%20Views&color=0e75b6&style=flat" />
+  </a>
+</p>
 
 ---
 
-## 🚀 Tech Stack
+## 👨‍💻 About Me
+
+🎓 3rd Year B.Tech Computer Science Student at **MGM University**
+
+💻 Passionate about building scalable full-stack web applications and AI-powered solutions.
+
+🚀 Interested in Backend Development, Artificial Intelligence, Machine Learning, and Open Source.
+
+🌱 Currently learning
+
+- Advanced Backend Development
+- System Design
+- Machine Learning
+- Scalable Web Applications
+
+📌 Looking for **Software Engineering**, **Full Stack**, and **AI/ML Internship** opportunities.
+
+---
+
+# 🚀 Tech Stack
 
 ### Languages
-C++ • Python • PHP • JavaScript • HTML • CSS
 
-### Technologies & Tools
-React.js • Node.js • Express.js • MongoDB • Mongoose  
-Git • GitHub • npm • Bootstrap • REST APIs • Postman  
-Responsive Web Design • Deployment (Render / Heroku)
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,php,js,html,css" />
+</p>
 
----
+### Frontend
 
-## 🌍 Featured Project
+<p>
+<img src="https://skillicons.dev/icons?i=react,bootstrap,tailwind,vite" />
+</p>
 
-### Philosophers’ World Map
+### Backend
 
-An interactive web platform that visually maps the birthplaces of great philosophers around the world.
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
 
-• Users can explore philosophers through an interactive global map  
-• Clickable location pins show insights about philosophers and their origins  
-• Developed for the **School of Interdisciplinary Studies, MGM University**  
-• Showcased during the **National Conference on World Philosophy Day**  
-• Built collaboratively as part of a development team
+### Database
 
----
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase" />
+</p>
 
-## 🤝 Open Source
+### Tools
 
-**Hacktoberfest 2025 Contributor**
-
-• Contributed to open-source repositories  
-• Fixed bugs and improved documentation  
-• Learned Git workflows, branching, and collaborative development
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,npm,vercel,netlify,render,vscode" />
+</p>
 
 ---
 
-## 📈 GitHub Stats
+# 🌟 Featured Projects
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=awaiz849&show_icons=true&theme=tokyonight)
+## 🎵 WaveJack — Audio Fingerprinting System
 
-![GitHub Streak](https://streak-stats.demolab.com/?user=awaiz849)
+A Shazam-inspired music recognition system built using **FastAPI, React, TypeScript, Supabase, FFT, and Librosa**.
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=awaiz849&layout=compact&theme=radical)
----
+### Features
 
-## 🌱 Currently Learning
-
-• Advanced Backend Development  
-• System Design Basics  
-• Open Source Contribution  
-• Scalable Web Applications
+- 🎤 Recognizes songs within seconds
+- ⚡ FFT-based audio fingerprinting
+- 📈 Waveform visualization
+- 👥 Guest & User authentication
+- 🛠 Admin dashboard
 
 ---
 
-## 📫 Connect With Me
+## 🏛 CSMC Civic Government Portal
 
-📧 Email: mohd.awaiz388@gmail.com  
-💼 LinkedIn: https://linkedin.com/in/mohammad-awaiz-333527311  
-🐙 GitHub: https://github.com/awaiz84
+A modern government portal developed for **Chhatrapati Sambhajinagar Municipal Corporation**.
+
+### Highlights
+
+- Complaint Management
+- Budget Dashboard
+- Water Schedule
+- Ward Analytics
+- Citizen Services
+
+⭐ Demonstrated live to the IAS Municipal Commissioner.
+
+---
+
+## 🤖 Codebase Intelligence Agent
+
+An AI-powered repository analyzer.
+
+### Features
+
+- Repository Understanding
+- Architecture Analysis
+- Dependency Mapping
+- Folder Explanation
+- Runtime Flow Visualization
+
+Built during a Hackathon.
+
+---
+
+## 🌍 Philosophers' World Map
+
+Interactive global map showcasing the birthplaces of **100+ philosophers**.
+
+Developed for
+
+**School of Interdisciplinary Studies,
+MGM University**
+
+Presented during the **National Conference on World Philosophy Day.**
+
+---
+
+# 🤝 Open Source
+
+## 🎉 Hacktoberfest 2025 Contributor
+
+✔ Fixed Bugs
+
+✔ Improved Documentation
+
+✔ Worked with Git Branching
+
+✔ Collaborated through Pull Requests
+
+---
+
+# 📊 GitHub Statistics
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=awaiz849&show_icons=true&theme=tokyonight"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaiz849&layout=compact&theme=tokyonight"/>
+
+</p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=awaiz849&theme=tokyonight"/>
+
+</p>
+
+---
+
+# 🎯 Currently Working On
+
+- 🚀 AI-Powered Applications
+- 🌐 MERN Stack Projects
+- 🤖 Machine Learning
+- ⚙ Backend Architecture
+- 📚 Data Structures & Algorithms
+
+---
+
+# 📫 Connect With Me
+
+📧 **Email**
+
+[mohd.awaiz388@gmail.com](mailto:mohd.awaiz388@gmail.com)
+
+💼 **LinkedIn**
+
+https://linkedin.com/in/mohammad-awaiz-333527311
+
+🐙 **GitHub**
+
+https://github.com/awaiz849
+
+🌐 **Portfolio**
+
+https://your-portfolio-link.com
+
+---
+
+⭐ *"I enjoy transforming ideas into real-world software that solves meaningful problems."*
