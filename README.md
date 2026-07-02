@@ -1,106 +1,63 @@
-<h1 align="center">Mohammad Awaiz</h1>
+<div align="center">
 
-<p align="center">
-Full Stack Developer • AI Enthusiast • Open Source Contributor
+# Hi there 👋
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=3B82F6&center=true&vCenter=true&width=700&lines=I'm+Mohammad+Awaiz;Full+Stack+Developer;AI+Enthusiast;Open+Source+Contributor;Building+Real-World+Applications" />
+
+<br>
+
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-0A66C2?style=for-the-badge)](YOUR_PORTFOLIO_URL)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/mohammad-awaiz-333527311)
+[![GitHub](https://img.shields.io/badge/GitHub-awaiz849-181717?style=for-the-badge&logo=github)](https://github.com/awaiz849)
+[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail)](mailto:mohd.awaiz388@gmail.com)
+
+</div>
+
+---
+
+# About Me
+
+I'm a third-year **Computer Science** student at **MGM University** passionate about building scalable full-stack applications and AI-powered software.
+
+I enjoy solving real-world problems through backend engineering, intelligent systems, and modern web technologies. My interests include Full Stack Development, Artificial Intelligence, Machine Learning, and Open Source.
+
+---
+
+# Skills & Tools
+
+### Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,js,ts,php,html,css" />
 </p>
 
-<p align="center">
-<a href="mailto:mohd.awaiz388@gmail.com">Email</a> •
-<a href="https://linkedin.com/in/mohammad-awaiz-333527311">LinkedIn</a> •
-<a href="https://github.com/awaiz849">GitHub</a> •
-<a href="YOUR_PORTFOLIO_URL">Portfolio</a>
+### Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
+</p>
+
+### Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
+</p>
+
+### Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
+</p>
+
+### Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,vercel,netlify,render" />
 </p>
 
 ---
 
-## About
-
-I'm a third-year Computer Science undergraduate at MGM University with a strong interest in building scalable software systems and AI-powered applications.
-
-My work spans full-stack development, backend engineering, digital signal processing, and intelligent developer tools. I enjoy solving real-world problems through clean architecture, modern technologies, and practical software engineering.
-
-I'm currently looking for opportunities in **Software Engineering**, **Full Stack Development**, and **AI/ML**.
-
----
-
-## Technical Skills
-
-**Languages**
-
-C++ • Python • JavaScript • TypeScript • PHP • HTML • CSS
-
-**Frontend**
-
-React • Vite • Tailwind CSS • Bootstrap
-
-**Backend**
-
-Node.js • Express.js • FastAPI • REST APIs
-
-**Databases**
-
-MongoDB • MySQL • PostgreSQL • Supabase
-
-**Developer Tools**
-
-Git • GitHub • Postman • npm • Vercel • Netlify • Render
-
-**Currently Exploring**
-
-Machine Learning • System Design • NLP • LLM Applications
-
----
-
-## Featured Projects
-
-### WaveJack — Audio Fingerprinting System
-
-A Shazam-inspired music recognition platform that identifies songs using Fast Fourier Transform (FFT), spectral peak detection, and fingerprint hashing.
-
-**Tech Stack**
-
-Python • FastAPI • React • TypeScript • Supabase • Librosa
-
----
-
-### Codebase Intelligence Agent
-
-An AI-powered repository analysis tool that converts complex GitHub repositories into structured architectural documentation using Large Language Models.
-
-**Tech Stack**
-
-Python • React • TypeScript • Claude API • GitHub API
-
----
-
-### CSMC Civic Government Portal
-
-A production-ready civic platform developed for Chhatrapati Sambhajinagar Municipal Corporation featuring complaint management, ward analytics, city services, and public dashboards.
-
-The project was demonstrated to the Municipal Commissioner and received appreciation for supporting digital governance.
-
----
-
-### Philosophers' World Map
-
-An interactive WebGIS platform developed for MGM University's School of Interdisciplinary Studies to visualize the birthplaces and intellectual origins of more than 100 philosophers worldwide.
-
-The application was officially showcased during the National Conference on World Philosophy Day.
-
----
-
-## Open Source
-
-### Hacktoberfest 2025
-
-- Contributed to open-source repositories
-- Fixed bugs and improved documentation
-- Worked with pull requests and Git workflows
-- Collaborated with distributed development teams
-
----
-
-## GitHub Statistics
+# GitHub Stats
 
 <p align="center">
 
@@ -118,20 +75,53 @@ The application was officially showcased during the National Conference on World
 
 ---
 
-## Current Focus
+# Featured Projects
 
-- Backend Engineering
-- Machine Learning
-- AI Applications
-- System Design
-- Scalable Web Applications
-- Open Source
+## 🎵 WaveJack
+
+A Shazam-inspired audio fingerprinting platform capable of identifying songs using **FFT-based audio fingerprinting**, **FastAPI**, **React**, and **Supabase**.
 
 ---
 
-## Let's Connect
+## 🤖 Codebase Intelligence Agent
 
-- Email: <a href="mailto:mohd.awaiz388@gmail.com">mohd.awaiz388@gmail.com</a>
-- LinkedIn: https://linkedin.com/in/mohammad-awaiz-333527311
-- GitHub: https://github.com/awaiz849
-- Portfolio: YOUR_PORTFOLIO_URL
+An AI-powered developer tool that analyzes GitHub repositories and generates architectural insights, dependency maps, and project documentation using LLMs.
+
+---
+
+## 🏛 CSMC Civic Government Portal
+
+A civic technology platform developed for **Chhatrapati Sambhajinagar Municipal Corporation**, featuring complaint management, ward analytics, and citizen services.
+
+---
+
+## 🌍 Philosophers' World Map
+
+An interactive WebGIS application showcasing the birthplaces of 100+ philosophers, developed for the **School of Interdisciplinary Studies, MGM University** and presented during the **National Conference on World Philosophy Day**.
+
+---
+
+# Open Source
+
+- 🎉 Hacktoberfest 2025 Contributor
+- 🔀 Contributed through Pull Requests
+- 🐞 Fixed bugs and improved documentation
+- 🌱 Experienced with collaborative Git workflows
+
+---
+
+# Currently Learning
+
+- Machine Learning
+- System Design
+- Large Language Models (LLMs)
+- Scalable Backend Development
+
+---
+
+# Connect With Me
+
+- 🌐 Portfolio — **YOUR_PORTFOLIO_URL**
+- 💼 LinkedIn — https://linkedin.com/in/mohammad-awaiz-333527311
+- 🐙 GitHub — https://github.com/awaiz849
+- 📧 Email — **mohd.awaiz388@gmail.com**
