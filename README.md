@@ -121,7 +121,6 @@ An interactive WebGIS application showcasing the birthplaces of 100+ philosopher
 
 # Connect With Me
 
-- 🌐 Portfolio — **YOUR_PORTFOLIO_URL**
 - 💼 LinkedIn — https://linkedin.com/in/mohammad-awaiz-333527311
 - 🐙 GitHub — https://github.com/awaiz849
 - 📧 Email — **mohd.awaiz388@gmail.com**
