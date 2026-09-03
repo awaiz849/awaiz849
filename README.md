@@ -71,22 +71,22 @@ My interests include:
 <div align="center">
 
 <img
-src="https://github-readme-stats.vercel.app/api?username=awaiz849&show_icons=true&theme=github_dark&hide_border=true"
-height="170"
-alt="GitHub Stats"
+  src="https://github-readme-stats.vercel.app/api?username=awaiz849&show_icons=true&theme=github_dark&hide_border=true"
+  height="170"
+  alt="GitHub Stats"
 />
 
 <img
-src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaiz849&layout=compact&theme=github_dark&hide_border=true"
-height="170"
-alt="Top Languages"
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=awaiz849&layout=compact&theme=github_dark&hide_border=true"
+  height="170"
+  alt="Top Languages"
 />
 
 <br><br>
 
 <img
-src="https://streak-stats.demolab.com?user=awaiz849&theme=github-dark&hide_border=true"
-alt="GitHub Streak"
+  src="https://streak-stats.demolab.com?user=awaiz849&theme=github-dark&hide_border=true"
+  alt="GitHub Streak"
 />
 
 </div>
