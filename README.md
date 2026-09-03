@@ -1,274 +1,120 @@
 <div align="center">
 
-# Mohammad Awaiz
+# Hi, I'm Mohammad Awaiz 👋
 
-### Computer Science Undergraduate • Full-Stack Developer • AI/ML Enthusiast
+### Computer Science Undergraduate | Full-Stack Developer | AI/ML Enthusiast
 
-Building practical software at the intersection of **AI, backend engineering, and modern web development.**
+Building practical software with **AI, backend systems, and modern web technologies.**
 
 <p>
-  <a href="https://github.com/awaiz849">
-    <img src="https://img.shields.io/badge/GitHub-awaiz849-181717?style=for-the-badge&logo=github" />
-  </a>
-  <a href="https://linkedin.com/in/mohammad-awaiz-333527311">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin" />
-  </a>
-  <a href="mailto:mohd.awaiz388@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail" />
-  </a>
+<a href="https://github.com/awaiz849">
+<img src="https://img.shields.io/badge/GitHub-awaiz849-181717?style=for-the-badge&logo=github">
+</a>
+<a href="https://linkedin.com/in/mohammad-awaiz-333527311">
+<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
+</a>
+<a href="mailto:mohd.awaiz388@gmail.com">
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail">
+</a>
 </p>
 
 </div>
 
 ---
 
-## 👋 About Me
+## 👨‍💻 About Me
 
-I'm a **3rd-year Computer Science undergraduate at MGM University, Chhatrapati Sambhajinagar**, focused on building full-stack applications and AI-powered software.
+I'm a **3rd-year Computer Science student at MGM University** focused on building
+full-stack applications and AI-powered software.
 
-My work combines **backend engineering, AI integration, digital signal processing, and clean frontend development**.
+- 🤖 AI / Machine Learning
+- ⚙️ Backend & API Development
+- 🌐 Full-Stack Development
+- 🧠 LLM Applications
+- 🌱 Open Source
 
-I enjoy taking ideas from concept to working software — from audio fingerprinting systems and AI developer tools to civic technology and mobile business applications.
-
-### What I Work On
-
-- 🤖 Artificial Intelligence & Machine Learning
-- 🧠 LLM-powered applications
-- ⚙️ Backend Engineering & REST APIs
-- 🌐 Full-Stack Web Development
-- 🎵 Audio Processing & Digital Signal Processing
-- 🗄️ Database & Cloud Architecture
-- 🌍 WebGIS & Interactive Data Visualization
-- 🌱 Open Source Development
-
-> Currently exploring **Machine Learning, Neural Networks, NLP, Transformers, and scalable backend systems.**
+Currently exploring **Machine Learning, NLP, Neural Networks & Transformers**.
 
 ---
 
-# 🛠️ Technical Skills
-
-### 💻 Languages
+## 🛠️ Tech Stack
 
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,php,html,css" />
+<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,vite,tailwind,nodejs,express,fastapi,mongodb,mysql,postgres,supabase,git,github,docker" />
 </p>
 
-**Python • C • C++ • JavaScript • TypeScript • PHP • HTML5 • CSS**
+---
 
-### 🤖 AI & Data
+## 🚀 Featured Projects
 
-<p>
-<img src="https://skillicons.dev/icons?i=python" />
-</p>
+### 🎵 WaveJack
+**Audio Fingerprinting & Song Identification**
 
-- LLM APIs — Claude, GPT-4
-- Prompt Engineering
-- FFT / Digital Signal Processing
-- Audio Processing
-- librosa
-- NumPy
-- Machine Learning
-- Neural Networks
-- NLP
-- Transformer Architectures
-- scikit-learn
+Python · FastAPI · React · TypeScript · Supabase · FFT · librosa
 
-### 🎨 Frontend
-
-<p>
-<img src="https://skillicons.dev/icons?i=react,vite,tailwind,bootstrap" />
-</p>
-
-- React.js
-- React + TypeScript
-- Vite
-- Tailwind CSS
-- Bootstrap
-- Framer Motion
-
-### ⚙️ Backend
-
-<p>
-<img src="https://skillicons.dev/icons?i=nodejs,express,fastapi" />
-</p>
-
-- FastAPI
-- Node.js
-- Express.js
-- REST APIs
-
-### 🗄️ Databases
-
-<p>
-<img src="https://skillicons.dev/icons?i=mongodb,mysql,postgres,supabase" />
-</p>
-
-- MongoDB
-- PostgreSQL
-- Supabase
-- MySQL
-
-### 🔧 Tools & Deployment
-
-<p>
-<img src="https://skillicons.dev/icons?i=git,github,postman,vscode,npm,vercel,netlify,render" />
-</p>
-
-- Git & GitHub
-- Postman
-- VS Code
-- Vite
-- npm
-- Vercel
-- Netlify
-- Render
+Shazam-style audio identification system using **FFT, spectral peak detection
+and constellation hashing** to identify songs from short audio clips.
 
 ---
 
-# 🚀 Featured Projects
+### 🏪 Golden Tools & Hardware
+**Mobile POS & Rental Tracking System**
 
-## 🎵 WaveJack
-### Audio Fingerprinting & Song Identification System
+React · TypeScript · Capacitor · Supabase · Android
 
-**Python · FastAPI · React · TypeScript · Supabase · PostgreSQL · librosa · FFT**
-
-A Shazam-style audio identification platform designed to identify songs from short real-world audio clips.
-
-### Highlights
-
-- 🎧 Engineered an audio fingerprinting engine using **FFT, spectral peak detection, and FAN constellation hashing**
-- 🔊 Generates noise-resistant audio signatures for song identification
-- ⚡ Identifies songs from short audio clips in **under 10 seconds**
-- 🎙️ Supports microphone capture and audio file uploads
-- 🌊 Includes real-time waveform visualization
-- 🗄️ Uses Supabase PostgreSQL for fingerprint matching
-- 👤 Implements guest and registered-user access tiers
-- 🛠️ Includes an administrative dashboard for indexed songs
-- ☁️ Deployment-ready architecture using **Render + Vercel**
-
-> **Focus:** Digital Signal Processing • AI/Audio • Backend Engineering • Full Stack
+Mobile-first POS and rental management application with **speech input,
+camera integration, customer verification and real-time rental tracking**.
 
 ---
 
-## 🏪 Golden Tools & Hardware
-### Mobile POS & Rental Tracking System
+### 🏛️ CSMC Civic Government Portal
 
-**React · TypeScript · Capacitor · Supabase · PostgreSQL · Android**
+React · Vite · Tailwind CSS
 
-A mobile-first POS and rental management system designed for real-world merchant workflows.
-
-### Highlights
-
-- 📱 Built a mobile-first POS and inventory rental tracking application
-- ⚡ Used Capacitor to bridge web technologies with native Android functionality
-- 🎙️ Implemented a custom hands-free speech-to-text workflow
-- 📷 Integrated native device camera functionality for customer verification
-- ☁️ Stored verification photos using secure remote storage
-- 🗄️ Connected customer records with relational database entries
-- 📊 Built chronological rental tracking and day-wise activity views
-- 🔎 Added multi-parameter real-time search and filtering
-
-> **Focus:** Mobile Development • Full Stack • Native Integration • Database Systems
+Civic technology platform built for **Chhatrapati Sambhajinagar Municipal
+Corporation**, featuring complaint management, ward data, budgets and
+citizen services.
 
 ---
 
-## 🏛️ CSMC Civic Government Portal
+### 🌍 Philosophers' World Map
 
-**React · React Router · Tailwind CSS · Vite · Civic Technology**
+JavaScript · Leaflet.js · WebGIS
 
-A multi-page civic technology platform developed for the **Chhatrapati Sambhajinagar Municipal Corporation**.
-
-### Highlights
-
-- 📝 Complaint management dashboards
-- 🏙️ City guides and citizen information
-- 🏛️ General Body meeting data
-- 💰 Budget tracking
-- 🏘️ Ward-level metrics
-- 💧 Water schedule information
-- 📊 Administrative dashboards
-- 🤝 Built around real civic stakeholder requirements
-
-The project was presented to the **Municipal Commissioner** and received appreciation and encouragement for further digital transformation collaboration.
-
-> **Focus:** Civic Tech • Frontend Engineering • Data Visualization • Real-World Software
+Interactive world map visualizing the birthplaces of **100+ philosophers**,
+developed for MGM University's School of Interdisciplinary Studies.
 
 ---
 
-## 🌍 Philosophers' World Map
+## 🌱 Open Source
 
-### Interactive Global Knowledge Visualization
+**Hacktoberfest 2025 Contributor**
 
-**JavaScript · Leaflet.js · HTML5 · CSS · WebGIS · Google Earth**
-
-An interactive WebGIS platform commissioned by the **School of Interdisciplinary Studies, MGM University**.
-
-### Highlights
-
-- 🌎 Visualizes the birthplaces and intellectual origins of **100+ philosophers**
-- 📍 Interactive map markers
-- 🧠 Contextual information for each philosopher
-- 🗺️ Dynamic geographic layers
-- 📚 Integrated academic metadata
-- 🎤 Officially launched and presented at the **National Conference on World Philosophy Day**
-
-> **Focus:** WebGIS • Data Visualization • JavaScript • Academic Technology
+Contributed bug fixes, documentation improvements and diagnostic enhancements
+through collaborative GitHub workflows.
 
 ---
 
-# 💼 Experience
+## 📊 GitHub
 
-## 🏛️ Civic Tech Developer
-### Chhatrapati Sambhajinagar Municipal Corporation · 2025
+<div align="center">
 
-**CSMC Civic Government Portal**
+<img src="https://streak-stats.demolab.com?user=awaiz849&theme=github-dark&hide_border=true" />
 
-- Independently developed a complete multi-page civic government portal
-- Worked with real civic stakeholder requirements
-- Built public-facing government information and administrative dashboards
-- Presented the application to the Municipal Commissioner
-- Delivered a production-ready institution-facing application
+</div>
 
 ---
 
-## 🌍 Web Developer
-### School of Interdisciplinary Studies, MGM University · 2025
+## 🎯 2026
 
-**Philosophers' World Map**
-
-- Commissioned to develop an interactive global WebGIS platform
-- Managed real stakeholder requirements and a public launch deadline
-- Developed a map containing data for 100+ philosophers
-- Delivered the application for live conference usage
-- Project was officially launched at the National Conference on World Philosophy Day
+`AI/ML` · `DSA` · `System Design` · `Cloud & DevOps` · `Open Source`
 
 ---
 
-# 🌱 Open Source
+<div align="center">
 
-### Hacktoberfest 2025 Contributor
+### 💙 Thanks for visiting!
 
-- 🔀 Contributed through GitHub Pull Requests
-- 🐞 Fixed developer-focused code bugs
-- 📖 Improved project documentation
-- 🔍 Enhanced diagnostic reporting
-- 🤝 Worked with maintainer-reviewed contributions
-- 🌿 Practiced professional Git workflows
-- 🔄 Experience with branching, rebasing and collaborative development
+**Building • Learning • Contributing**
 
----
-
-# 📚 Currently Learning
-
-```text
-Machine Learning
-      ↓
-Neural Networks
-      ↓
-NLP
-      ↓
-Transformer Architectures
-      ↓
-LLM Applications
-      ↓
-Scalable AI Systems
+</div>
