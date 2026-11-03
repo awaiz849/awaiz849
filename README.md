@@ -46,10 +46,10 @@ Building backend systems, geospatial tools and AI-powered applications with Pyth
 | Project | What it does | Stack |
 | --- | --- | --- |
 | **[Sigil Siege](https://github.com/awaiz849/sigil-siege-game)** | Controller-free spell game played with hand gestures through the webcam; built by Team Velocity (with Vasi Azam and Shaikh Farhan) at the OpenForge Hackathon 2026 | Web, webcam hand-gesture input |
-| **WaveJack** | Shazam-style song identification using FFT, spectral peak detection and constellation hashing | Python, FastAPI, React, TypeScript, Supabase |
+| **[WaveJack](https://wavejack.mdawaiz.workers.dev/)** | Shazam-style song identification using FFT, spectral peak detection and constellation hashing | Python, FastAPI, React, TypeScript, Supabase |
 | **Golden Tools & Hardware POS** | Mobile point-of-sale and tool-rental tracking app with speech input, camera capture and customer verification | React, TypeScript, Capacitor, Supabase, Android |
-| **SheetCraft** | Browser-based spreadsheet engine | Web |
-| **CSMC Civic Portal** | Municipal services portal for Chhatrapati Sambhajinagar: complaints, ward data, budgets and citizen services | React, Vite, Tailwind CSS |
+| **[SheetCraft](https://miniexcel.vercel.app/)** | Browser-based spreadsheet engine | Web |
+| **[CSMC Civic Portal](https://csmc-portal.vercel.app/)** | Municipal services portal for Chhatrapati Sambhajinagar: complaints, ward data, budgets and citizen services | React, Vite, Tailwind CSS |
 | **Philosophers' World Map** | Interactive WebGIS map of 100+ philosophers' birthplaces for MGM University | JavaScript, Leaflet.js |
 
 ---
