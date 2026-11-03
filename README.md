@@ -1,120 +1,78 @@
 <div align="center">
 
-# Hi, I'm Mohammad Awaiz 👋
+# Mohammad Awaiz
 
-### Computer Science Undergraduate | Full-Stack Developer | AI/ML Enthusiast
+**Computer Science Undergraduate · Backend & Full-Stack Developer · AI/ML**
 
-Building practical software with **AI, backend systems, and modern web technologies.**
+Building backend systems, geospatial tools and AI-powered applications with Python, FastAPI and React.
+
+🏆 **Hackathon Prize Winner**: Vibe Coding, Swayambhu 2K26
 
 <p>
-<a href="https://github.com/awaiz849">
-<img src="https://img.shields.io/badge/GitHub-awaiz849-181717?style=for-the-badge&logo=github">
-</a>
-<a href="https://linkedin.com/in/mohammad-awaiz-333527311">
-<img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin">
-</a>
-<a href="mailto:mohd.awaiz388@gmail.com">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail">
-</a>
+<a href="https://mohammadawaiz.vercel.app"><img src="https://img.shields.io/badge/Portfolio-mohammadawaiz.vercel.app-000000?style=flat-square&logo=vercel&logoColor=white"></a>
+<a href="https://linkedin.com/in/mohammad-awaiz-333527311"><img src="https://img.shields.io/badge/LinkedIn-Mohammad%20Awaiz-0A66C2?style=flat-square&logo=linkedin&logoColor=white"></a>
+<a href="mailto:mohd.awaiz388@gmail.com"><img src="https://img.shields.io/badge/Email-mohd.awaiz388%40gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white"></a>
 </p>
 
 </div>
 
 ---
 
-## 👨‍💻 About Me
+### About
 
-I'm a **3rd-year Computer Science student at MGM University** focused on building
-full-stack applications and AI-powered software.
-
-- 🤖 AI / Machine Learning
-- ⚙️ Backend & API Development
-- 🌐 Full-Stack Development
-- 🧠 LLM Applications
-- 🌱 Open Source
-
-Currently exploring **Machine Learning, NLP, Neural Networks & Transformers**.
+- B.Tech Computer Science and Engineering at **JNEC, MGM University**, Chhatrapati Sambhajinagar, India (graduating 2028)
+- Former **Web Developer, MGM University School of Interdisciplinary Studies** (Dec 2025 – Feb 2026)
+- Freelance **AI integration** developer (Claude API, LangChain, RAG pipelines)
+- Working towards **AI/ML engineering**, with a strong interest in open source and geospatial software
 
 ---
 
-## 🛠️ Tech Stack
+### Tech Stack
 
-<p>
-<img src="https://skillicons.dev/icons?i=python,cpp,c,js,ts,react,vite,tailwind,nodejs,express,fastapi,mongodb,mysql,postgres,supabase,git,github,docker" />
-</p>
-
----
-
-## 🚀 Featured Projects
-
-### 🎵 WaveJack
-**Audio Fingerprinting & Song Identification**
-
-Python · FastAPI · React · TypeScript · Supabase · FFT · librosa
-
-Shazam-style audio identification system using **FFT, spectral peak detection
-and constellation hashing** to identify songs from short audio clips.
+| Area | Tools |
+| --- | --- |
+| Languages | Python, TypeScript, JavaScript, C++, C, SQL |
+| Backend | FastAPI, Node.js, Express, REST APIs |
+| Frontend | React, Vite, Tailwind CSS, Capacitor |
+| Data | PostgreSQL, PostGIS, MongoDB, MySQL, Supabase |
+| AI | Claude API, LangChain, RAG pipelines, librosa |
+| GIS | Leaflet.js, QGIS |
+| Tools | Git, GitHub, Docker |
 
 ---
 
-### 🏪 Golden Tools & Hardware
-**Mobile POS & Rental Tracking System**
+### Selected Projects
 
-React · TypeScript · Capacitor · Supabase · Android
-
-Mobile-first POS and rental management application with **speech input,
-camera integration, customer verification and real-time rental tracking**.
-
----
-
-### 🏛️ CSMC Civic Government Portal
-
-React · Vite · Tailwind CSS
-
-Civic technology platform built for **Chhatrapati Sambhajinagar Municipal
-Corporation**, featuring complaint management, ward data, budgets and
-citizen services.
+| Project | What it does | Stack |
+| --- | --- | --- |
+| **[Sigil Siege](https://github.com/awaiz849/sigil-siege-game)** | Controller-free spell game played with hand gestures through the webcam; built by Team Velocity (with Vasi Azam and Shaikh Farhan) at the OpenForge Hackathon 2026 | Web, webcam hand-gesture input |
+| **WaveJack** | Shazam-style song identification using FFT, spectral peak detection and constellation hashing | Python, FastAPI, React, TypeScript, Supabase |
+| **Golden Tools & Hardware POS** | Mobile point-of-sale and tool-rental tracking app with speech input, camera capture and customer verification | React, TypeScript, Capacitor, Supabase, Android |
+| **SheetCraft** | Browser-based spreadsheet engine | Web |
+| **CSMC Civic Portal** | Municipal services portal for Chhatrapati Sambhajinagar: complaints, ward data, budgets and citizen services | React, Vite, Tailwind CSS |
+| **Philosophers' World Map** | Interactive WebGIS map of 100+ philosophers' birthplaces for MGM University | JavaScript, Leaflet.js |
 
 ---
 
-### 🌍 Philosophers' World Map
+### Achievements
 
-JavaScript · Leaflet.js · WebGIS
-
-Interactive world map visualizing the birthplaces of **100+ philosophers**,
-developed for MGM University's School of Interdisciplinary Studies.
-
----
-
-## 🌱 Open Source
-
-**Hacktoberfest 2025 Contributor**
-
-Contributed bug fixes, documentation improvements and diagnostic enhancements
-through collaborative GitHub workflows.
+- **Hackathon Prize Winner**, Vibe Coding, Swayambhu 2K26 (JNEC MCA Department, 2026) for SheetCraft, a browser-based spreadsheet engine
+- **Philosophers' World Map** presented at a National Conference on World Philosophy Day
+- **Open source contributor to [istSOS4](https://github.com/istSOS/istSOS4) (OSGeo)**: pull request improving the contributor guide ([#248](https://github.com/istSOS/istSOS4/pull/248), in review) and verification of a pagination fix against the 405-test OGC conformance suite ([#237](https://github.com/istSOS/istSOS4/pull/237))
+- **Hacktoberfest 2025** contributor: bug fixes, documentation and diagnostics
 
 ---
 
-## 📊 GitHub
+### GitHub Activity
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com?user=awaiz849&theme=github-dark&hide_border=true" />
-
+<img src="https://streak-stats.demolab.com?user=awaiz849&theme=github-dark&hide_border=true" alt="GitHub streak stats" />
 </div>
 
 ---
 
-## 🎯 2026
-
-`AI/ML` · `DSA` · `System Design` · `Cloud & DevOps` · `Open Source`
-
----
-
 <div align="center">
 
-### 💙 Thanks for visiting!
-
-**Building • Learning • Contributing**
+Open to internships and open-source collaboration. Reach me at **mohd.awaiz388@gmail.com**.
 
 </div>
